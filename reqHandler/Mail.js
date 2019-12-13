@@ -13,7 +13,7 @@ const Mail = (name, to, password, subject) => {
         Email : ${to}
         Password : ${password}
         
-        Thanks and Regard
+        Thanks and Regards
         
         Team Notepad.`
     })
